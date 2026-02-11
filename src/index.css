@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional custom global styles */
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background-color: #0a0a0a; /* dark background like your design */
+  color: white;
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
