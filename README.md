@@ -1,2 +1,0 @@
-# aegis-landing
-hackathon website
